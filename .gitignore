@@ -1,0 +1,6 @@
+.venv
+__pycache__
+/model/__pycache__
+/model/archive
+/model/data
+/model/logs
